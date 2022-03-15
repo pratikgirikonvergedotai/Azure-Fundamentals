@@ -1,0 +1,30 @@
+
+
+
+what is Big data ?
+
+ term used to describe massive volume of structured/unstructured data that is so arge it is 
+difficult to move and process using traditional database and software techniques.
+
+
+Azure Synapse analytics (formally known as SQL Data Warehouse): 
+enterprise data warehousing and big data analytics. intended to run sql queries against large databases 
+for such as reporting
+
+
+HD Insight: 
+run open source analytics software such as hadoop, kafka and spark
+
+
+
+Azure databricks : 
+
+an Apache spark based analytics platform optimized for the microsoft azure cloud services platform
+third-party databricks cloud services supported within azure
+
+
+
+Data lake analytics:
+on-demand analytics job service that simplifies big data . data lake is a storage repo that holds a vast amount 
+of raw data in its native formta until it is needed
+

@@ -1,0 +1,25 @@
+Types of cloud computing
+
+1) SaaS (Software as a Service) : 
+   A product that is run and managed by the service provider Don't worry about how the 
+   service is maintained . it just works and remains available. these is for customers
+
+   example : salesforce, gmail, office365
+
+2) PaaS (Platform as a Service) : 
+        Focus on the deployment and management of your apps. Dont worry about provisioning,
+        configuring or understanding the hardware or os. these is for developers
+        
+        example : AWS Elastic Beanstalk, Heroku, google app engine
+        
+
+
+
+3) IaaS (Infrastructure as a Service):
+          the basic building blocks for cloud IT. provides access to networking features 
+          computers and data storage space. dont worry about IT staff, data centers and 
+          hardware.  these is for admins
+
+          example : Microsoft Azure, AWS, Oracle Cloud
+           
+         

@@ -1,0 +1,52 @@
+
+
+
+
+Azure machine learning service : 
+service for that simplifies running ai/ml realted workloads allowing you to build flexible pipelines
+to automate workflow . use python an R, run dl workload such as tensorflow
+
+
+
+
+Personalizer : deliver rich, personalised experiences for every user 
+
+
+Translator : add real time , multi language text translation to your apps, website and tools
+
+
+anomaly detector : detect anomalies in data to quickly identify and troubleshoot issues
+
+
+
+azure bot service : intelligent , serverless bot service that scales on demand
+
+
+
+form recogniser : automate the extraction of text , key /value pairs and tables from your documents
+
+
+
+computer vision : easily customise computer vision models for your unique use case
+
+
+
+
+
+language understanding : build natural language understanding into apps, bots and IOT devices
+
+
+
+QnA maker : create a conversational question and answer bot from your existing content
+
+
+Text analytics : extract info such as sentiment, key phrases, named entities and lang from your text
+
+
+content moderator : moderate text and images to provide safer, more positive experience
+
+
+face : detect and identify people and emotions in images
+
+
+ink recogniser : recognise digital ink content, such as handwriting , shapes and document layout

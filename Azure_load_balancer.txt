@@ -1,0 +1,15 @@
+
+
+ 
+Azure load balancer is used for evenly  distributing incoming network traffic across a group
+of backend resources or servers
+
+
+
+Azure load balancer operates on OSI Layer 4(Transport)
+
+
+you can create a:
+
+- public load balancer incoming traffic from the internet to public facing servers (public ips)
+- internal (private) load balancer incoming internal network traffic to private facing servers(private ips)

@@ -1,0 +1,9 @@
+
+
+
+Azure Traffic manager operates at dns layer to quickly and efficiently direct incoming dns
+requests based on the routing method of your choice
+
+- route traffic to server the geographically near by to reduce latency
+- fail-over to redundant system in-case primary systems become unhealthy
+- route to random vm to simulate a/b testing

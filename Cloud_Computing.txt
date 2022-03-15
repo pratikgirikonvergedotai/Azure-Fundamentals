@@ -1,0 +1,30 @@
+What is cloud Computing ? 
+
+The practice of using a network of remote servers hosted on the Internet 
+to store, manage and process data, rather than a local server or a personal computer 
+
+
+On-premise : 
+
+- you own the servers
+
+- you hire the IT people 
+
+- you pay or rent the real-estate
+
+- you take all the risk
+
+
+
+Cloud Providers :
+
+- Someone else owns the servers
+
+- Someone else hires the IT people 
+
+- Someone else pays or rents the real-estate
+
+- you responsible for your configuring cloud services and code , someone else takes care 
+  of the rest 
+
+

@@ -1,0 +1,29 @@
+Azure blob storage:
+object serverless storage. store very large files and large amounts of unstructured files pay
+for what you store, unlimited storage, no-resizing volumes, file system protocols
+
+Azure Disk storage:
+A virtual volume . choose SSD or HDD , encryption by default, attach volume to vms
+
+Azure file storage : 
+a shared volume that you can access and manage like a file server eg.SMB
+
+Azure Queue storage:
+messaging queue a data store for queuing and reliably delivering message between applications
+
+Azure table storage:
+wide-column nosql databse a no sql store that hosts unstructured data independent of any schema
+
+
+Azure data box : 
+a rugged briefcase computer and storage designed to move terabytes or petabytes of data
+
+
+azure archive storage:
+long term cold storage for when you need to hold onto files for years on the cheapest storage options
+
+
+ 
+azure data lake storage: 
+a centralized repository that allows you to store all your structured and unstructured data at any scale
+

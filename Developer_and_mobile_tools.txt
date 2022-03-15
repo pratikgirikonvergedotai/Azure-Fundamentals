@@ -1,0 +1,21 @@
+
+Azure signalR service:
+real-time messaging easily add real-time web functionality to applications think of it
+like the pusher for azure
+
+
+Azure App service:
+easy to use service for deploying and scaling web applications with .Net, Node js, Java, Python and PHP
+Developer focus on building their web apps, and not worry about the underlying infrastructure 
+think of it like heroku for azure
+
+
+
+Visual studio:
+code editor the integrated development environment designed for creating powerful, scalable applications for Azure
+
+
+
+Xamarin :
+mobile app frame work create powerful and scalable native mobile apps with .NET and Azure
+

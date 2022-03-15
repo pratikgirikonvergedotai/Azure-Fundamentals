@@ -1,0 +1,6 @@
+what is infrastructure as code (Iac) ?
+
+the process of managing and provisioning computer data centers through machine-readable
+definition files, rather than physical hardware configuration or interactive configuration tools
+
+Azure Resource Manager (ARM) allows you to programmatically create Azure resources vis JSON template

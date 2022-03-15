@@ -1,0 +1,25 @@
+Common cloud service : 
+
+a cloud provider can have hundreds of cloud services that are grouped various various 
+types of services. the four most common types of cloud services for infrastructure 
+as a service (Iaas)would be:
+
+Compute : 
+Imagine having a virtual computer that can run application, programs and code
+
+Storage: 
+Imagine having a virtual hard-drive that can store files
+
+
+Networking :
+Imagine having a virtual network being able to define internet connections or 
+network isolations
+
+Databases :
+Imagine a virtual database for storing reporting data or a database for general purpose
+web-application
+
+
+
+
+

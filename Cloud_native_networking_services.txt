@@ -1,0 +1,31 @@
+
+
+Azure DNS:
+provide ultra-fast DNS responses and ultra-high domain availability
+
+
+
+Azure virtual network(vNET):
+logical isolated section of the azure network for customers to launch azure resources within
+
+
+
+
+
+Azure load balancer: OSI Level 4(transport) Load balancer
+
+
+
+
+
+
+Azure application gateway:
+OSI level 7(http) load balancer , can apply a web application firewall
+
+
+
+
+Network security groups :
+virtual firewall at the subnet level
+
+

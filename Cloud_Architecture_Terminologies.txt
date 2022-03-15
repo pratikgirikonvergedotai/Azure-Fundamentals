@@ -1,0 +1,65 @@
+
+High Avaliablity : 
+your ability to ensure a service remains available 
+your ability for your service to remain available by ensuring there is no single point of 
+failure and/or ensure a certain level of performance . running your workloads across multiple
+availability zones ensures that if 1 or 2 az's become unavailable your service/applications
+remains available. use azure load balancer to evenly distribute traffic to multiple servers
+
+
+
+
+High Scalability : 
+your ability to grow rapidly or unimpeded
+your ability to increase your capacity based on the increasing demand of traffic, 
+memory and computing power
+
+types of scaling :
+1) vertical (Scaling Up) : Upgrade to bigger server
+2) horizontal (Scaling out) : add more servers of the same size
+
+
+
+
+
+High Elasticity : 
+your ability to shrink and grow to meet the demand
+your ability to automatically increase or decrease your capacity based on the current 
+demand of traffic, memory and computing power
+
+we use horizontal scaling for this: 
+1) scaling out - add more servers of the same size
+2) scaling in - remove more servers of the same size
+
+vertical scaling is generally hard for traditional architecture so you'll usually only see 
+horizontal scaling described with elasticity.
+
+some tools for elasticity : azure vm scale sets , sql server stretch database
+
+
+
+
+
+
+
+
+High Durability : 
+your ability to prevent failure
+your ability to recover from a disaster and to prevent the loss of data solutions that 
+recover from a disaster is known as Disaster Recovery (DR)
+
+QUESTIONS TO BE HIGHLY DURABLY
+
+- Do you have a backup ? 
+- How fast can you restore that backup ?
+- Does your backup still work ?
+- How do you ensure current live data is not corrupt ?
+
+
+
+
+
+
+
+
+Fault Tolerance : your ability to recover from failure

@@ -1,0 +1,3 @@
+
+azure dns allows you to host your domains names on azure you can create dns zones and manage your dns records . azure dns doesnt allow you 
+to purchase domains only the ability to manage dns records

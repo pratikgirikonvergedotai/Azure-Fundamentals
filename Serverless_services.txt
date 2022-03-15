@@ -1,0 +1,42 @@
+
+what is serverless ?
+
+when the underlying servers , infrastructure and os is taken care of by the 
+cloud service provider it will generally be highly available , scalable and cost effective 
+
+
+
+event-driven scale : 
+serverless function can be triggered or trigger other evnets allowing you 
+to compose complex applications and its just scales
+
+
+
+
+abstraction of servers : 
+servers are abstracted away. your code is described as functions . these functions can 
+be running on different compute instances
+
+
+
+micro-billing:
+serverless compute could run for a fraction of a second . billing into micro seconds 
+will save you money
+ 
+
+
+Azure functions : 
+run small amounts of code known as serverless functions in your favorite language:
+c# , java, javascript, python and powershell
+
+
+blog storage:
+serverless object storage . just upload files. dont think about the underlying file systems, resizing
+
+
+logical apps:
+allows you to build serverless workflows composed of azure functions building a state machines for serverless compute 
+ 
+
+event grid:
+pub/sub messaging system to allow you react to events and trigger other azure cloud servers such as azure funcitons

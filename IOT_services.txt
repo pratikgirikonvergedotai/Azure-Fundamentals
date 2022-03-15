@@ -1,0 +1,39 @@
+
+
+
+what is internet of things (IoT's) ?
+
+- smart bulbs
+- smart fridges
+- smart light switches
+- narrowband vs wideband hardware
+- security cameras
+- voice command speakers
+- temperature, pressure or humidity sensors
+- drones
+- phones 
+- buttons
+
+
+IOT central : connects your IOT devices to cloud
+
+
+IOT hub : 
+enable highly secure and reliable communication between your IOT application and devices it manage
+
+
+
+
+IOT Edge:
+fully managed service built on azure IOT hub. it allows data processing and analysis nearest the IOT devices
+Edge computing is when you offload compute from the cloud to local computing hardware such as 
+IOT devices, phones or home computers
+
+
+
+
+
+
+Windows 10 IOT core services:
+cloud services subscription that provide the essential services needed to commercialize a
+device on windows 10 IOT core. long term os support and services to manage devices updates and assess device health 

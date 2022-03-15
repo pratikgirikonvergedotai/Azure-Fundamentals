@@ -1,0 +1,45 @@
+
+Azure boards :
+kanban deliver value to your users faster using proven agile tools to plan, track, and discuss 
+work across your teams
+
+
+
+Azure Pipelines:
+build, test, and deploy with CI/CD that works with any language, platform, and cloud. connect
+to github or any other git provider and deploy continuously
+
+
+
+
+Azure repos:
+get unlimited, cloud hosted private git repos and collaborate to build better code with 
+pull requests and advanced file management 
+
+
+
+
+
+Azure test plans:
+test and ship with confidence using manual and exploratory testing tools
+
+
+
+
+
+Azure artifacts:
+create, host, and share packages with your team, and add artifacts to CI/CD pipelines
+with a single click
+
+
+
+
+
+Azure devtest labs:
+fast, easy, and lean  dev-test environments
+
+
+
+
+
+

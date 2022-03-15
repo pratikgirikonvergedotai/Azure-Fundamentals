@@ -1,0 +1,19 @@
+Benefits of cloud computing :
+
+cost-effective : 
+you pay for what you consume, no up-fornt cost . pay as you go thousands of customers sharing 
+the cost of the resources
+
+global : launch workloads anywhere in the world, just choose a region
+
+secure : cloud provider takes care of physical security. cloud services can buy secure 
+by default or you have the ability to configure access down to granular level
+
+reliable : data backup, disaster recovery, and data replication, and fault tolerance
+
+scalable : increase or decrease resources and services based on demand 
+
+elastic : automate scaling during spikes and drop in demand 
+
+current : the underlying hardware and managed software is patched , upgraded and replaced
+by the cloud provider without interruption to you

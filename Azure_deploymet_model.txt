@@ -1,0 +1,36 @@
+Public : 
+Cost - Most cost-effective 
+
+Security - 1) security controls by default
+           2) might not meet security requirements
+
+level of configuration - limited based on what the cloud service provider exposes to you 
+
+technical knowledge - you dont need in-depth knowledge of underlying infrastructure 
+
+
+Private : 
+Cost - Most expensive
+
+Security - 1) no guarantee its secure
+           2) can meet any security compliance requirement if you put in the work
+
+level of configuration - you can configure the infrastructure however you like
+
+technical knowledge - you need to know in-depth how to configure all levels of 
+                      your infrastructure 
+
+
+Hybrid : 
+Cost - could be more cost-effective based on what you offload to the cloud
+
+Security - 1) you have to secure your connection to cloud
+           2) can meet all security requirements
+
+level of configuration - you get best of both worlds 
+
+technical knowledge - you need to know in-depth how to configure all levels of 
+                      your infrastructure and know the csp's services
+
+
+cross-cloud : using multiple cloud providers
